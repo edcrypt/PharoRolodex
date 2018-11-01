@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "EduardoPadoan 11/1/2018 17:32",
+	"super" : "Object",
+	"category" : "Rolodex",
+	"classinstvars" : [
+		"default"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"backgroundWidth",
+		"backgroundHeight"
+	],
+	"name" : "BusinessCardTheme",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "EduardoPadoan 10/25/2018 16:39",
+	"super" : "WAComponent",
+	"category" : "Rolodex-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"card",
+		"theme"
+	],
+	"name" : "WABusinessCard",
+	"type" : "normal"
+}

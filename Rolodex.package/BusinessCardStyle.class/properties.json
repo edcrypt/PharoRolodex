@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "EduardoPadoan 11/1/2018 17:31",
+	"super" : "Object",
+	"category" : "Rolodex",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"styleBuilder",
+		"theme"
+	],
+	"name" : "BusinessCardStyle",
+	"type" : "normal"
+}

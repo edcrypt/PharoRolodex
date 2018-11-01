@@ -1,0 +1,1 @@
+http://cssdeck.com/labs/striped-business-card
