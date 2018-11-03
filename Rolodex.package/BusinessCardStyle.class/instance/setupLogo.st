@@ -7,8 +7,8 @@ setupLogo
 			style 
 				background: { theme logoURL.
 								 #noRepeat. #transparent. #center };
-				width: 125 px;
-				height: 130 px;
+				width: theme logoWidth;
+				height: theme logoHeight;
 				float: #right;
 				margin: {-219 px. 10 px. 0. 0};
 				textAlign: #center ]

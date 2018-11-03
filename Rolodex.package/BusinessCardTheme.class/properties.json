@@ -15,7 +15,9 @@
 		"backgroundPadding",
 		"baseFont",
 		"baseFontFamily",
-		"logoURL"
+		"logoURL",
+		"logoWidth",
+		"logoHeight"
 	],
 	"name" : "BusinessCardTheme",
 	"type" : "normal"

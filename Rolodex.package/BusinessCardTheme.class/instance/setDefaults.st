@@ -8,4 +8,6 @@ setDefaults
 		backgroundPadding: 15 px;
 		baseFont: 'Ubuntu';
 		baseFontFamily: #sansSerif;
-	   logoURL: 'http://static.colourlovers.com/images/patternDefinitions/36/368/368247.png?1381699115'
+	   logoURL: 'http://static.colourlovers.com/images/patternDefinitions/36/368/368247.png?1381699115';
+		logoWidth: 125 px;
+		logoHeight: 130 px
