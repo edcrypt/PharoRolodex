@@ -18,6 +18,8 @@ renderContentOn: html
 							html text: card email.
 							html break.
 							html text: card address.
+							html break.
+							html text: card mobilePhone
 						].
 					html div 
 						class: #logo;

@@ -9,4 +9,4 @@ setupContainer
 				width: 445 px;
 				height: 245 px;
 				border: {2 px. #dotted. (CssRGBColor red: 16r1b green: 16ra9 blue: 16rcc)};
-				fontFamily: {'Ubuntu', #sansSerif} ].
+				fontFamily: {'Ubuntu'. #sansSerif} ].

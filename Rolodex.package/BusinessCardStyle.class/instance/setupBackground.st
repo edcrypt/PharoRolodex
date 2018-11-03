@@ -10,5 +10,4 @@ setupBackground
 				background: { theme backgroundImageURL. 
 								 #repeat. #transparent. #bottom. #right};
 				padding: theme backgroundPadding; 
-				font: theme baseFont;
-				fontFamily: theme baseFontFamily ]
+				fontFamily: {theme baseFont. theme baseFontFamily} ]

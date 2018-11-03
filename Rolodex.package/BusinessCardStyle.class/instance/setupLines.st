@@ -15,5 +15,5 @@ setupLines
 			style
 				fontFamily: { 'Ubuntu'. #sansSerif };
 				fontSize: 15 px;
-				color: (CssRGBColor red: 16rf green: 16rff blue: 16rff);
+				color: (CssRGBColor red: 16rff green: 16rff blue: 16rff);
 				margin: {-8 px. 0. 0. 9px} ]
