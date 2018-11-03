@@ -1,0 +1,3 @@
+accessing
+logoURL
+	^ logoURL asZnUrl

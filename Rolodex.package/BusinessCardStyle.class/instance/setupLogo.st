@@ -5,7 +5,7 @@ setupLogo
 			selector class: 'logo' ] 
 		with: [ :style |
 			style 
-				background: { 'http://static.colourlovers.com/images/patternDefinitions/36/368/368247.png?1381699115' asZnUrl.
+				background: { theme logoURL.
 								 #noRepeat. #transparent. #center };
 				width: 125 px;
 				height: 130 px;
