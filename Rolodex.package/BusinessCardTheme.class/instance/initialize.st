@@ -1,5 +1,4 @@
-as yet unclassified
+initialization
 initialize
 	super initialize.
-	backgroundWidth := 450 px.
-	backgroundHeight := 250 px.
+	self setDefaults

@@ -10,7 +10,11 @@
 	"instvars" : [
 		"name",
 		"backgroundWidth",
-		"backgroundHeight"
+		"backgroundHeight",
+		"backgroundImageURL",
+		"backgroundPadding",
+		"baseFont",
+		"baseFontFamily"
 	],
 	"name" : "BusinessCardTheme",
 	"type" : "normal"

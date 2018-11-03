@@ -1,3 +1,3 @@
-as yet unclassified
+converting
 toCSS
 	^ styleBuilder build asString 

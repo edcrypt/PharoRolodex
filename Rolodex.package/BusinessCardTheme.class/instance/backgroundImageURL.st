@@ -1,0 +1,3 @@
+accessing
+backgroundImageURL
+	^ backgroundImageURL asZnUrl
