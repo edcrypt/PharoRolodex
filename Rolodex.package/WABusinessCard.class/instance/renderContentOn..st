@@ -8,18 +8,18 @@ renderContentOn: html
 				with: [
 					html paragraph
 						class: #line1;
-						with: card name.
+						with: card contact name.
 					html paragraph
 						class: #line2;
-						with: card title.
+						with: card contact title.
 					html div
 						class: #contact;
 						with: [
-							html text: card email.
+							html text: card contact email.
 							html break.
-							html text: card address.
+							html text: card contact address.
 							html break.
-							html text: card mobilePhone
+							html text: card contact mobilePhone
 						].
 					html div 
 						class: #logo;

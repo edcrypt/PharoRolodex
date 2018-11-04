@@ -1,4 +1,3 @@
-I represent a business card.
+I'm a business card.
 
-I keep info about some personal or work contact you may have.
-
+I combine contact information with a visual theme describing how to present it.

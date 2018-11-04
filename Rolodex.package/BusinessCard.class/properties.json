@@ -1,18 +1,13 @@
 {
-	"commentStamp" : "EduardoPadoan 10/25/2018 15:20",
+	"commentStamp" : "EduardoPadoan 11/3/2018 16:13",
 	"super" : "Object",
-	"category" : "Rolodex-Core",
+	"category" : "Rolodex",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"name",
-		"title",
-		"email",
-		"mobilePhone",
-		"workPhone",
-		"address",
-		"webAddress"
+		"contact",
+		"cardTheme"
 	],
 	"name" : "BusinessCard",
 	"type" : "normal"
